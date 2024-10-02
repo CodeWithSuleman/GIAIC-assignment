@@ -1,0 +1,15 @@
+.profile{
+    border-image: none;
+    display: flex;
+  }
+  .skills{
+    padding-top: 20vh;
+    color: whitesmoke;
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+  
+    justify-content: center;
+    
+  }
+  

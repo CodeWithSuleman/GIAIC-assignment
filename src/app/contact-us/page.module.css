@@ -1,0 +1,23 @@
+.info{
+  padding-top: 20vh;
+    font-weight: 900;
+    color: whitesmoke;
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+  
+    justify-content: center;
+    
+  }
+  
+  .profile{
+    border-image: none;
+    display: flex;
+  }
+  .social {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+    margin-top: 1rem;
+  }
